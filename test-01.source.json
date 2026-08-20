@@ -1,0 +1,414 @@
+{
+ "id": "test-01",
+ "title": "Practice Test 1 – Academic Reading",
+ "durationMinutes": 60,
+ "showAnswers": true,
+ "parts": [
+  {
+   "n": 1,
+   "range": "1-13",
+   "intro": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.",
+   "passageTitle": "Bringing Back the Urban Beehive",
+   "passage": "\n<p>For most of the twentieth century the honeybee was thought of as a creature of the countryside, kept in white wooden boxes at the edge of orchards and clover fields. In the past twenty-five years it has moved to town. Hives now sit on the roofs of opera houses in Paris, insurance offices in London, hotels in Toronto and university libraries in Melbourne. In some cities the number of registered colonies has tripled since 2010, and beekeeping courses routinely have waiting lists.</p>\n\n<p>The immediate cause of this migration was alarm. In 2006 beekeepers in North America began reporting that adult workers were abandoning apparently healthy hives, leaving behind a queen, a few nurse bees and a great deal of unguarded honey. The phenomenon was named colony collapse disorder, and although its causes are still argued over &ndash; a parasitic mite, a virus, poor nutrition, certain insecticides, or more probably all of these acting together &ndash; the headlines were unambiguous. The bees were disappearing. The public responded in the most direct way it could imagine: by keeping some.</p>\n\n<p>What surprised the new urban beekeepers was how well their insects did. Honey yields from city hives frequently match and sometimes exceed those from farmland. Several factors are at work. Cities are warm: the mass of brick, asphalt and heated buildings creates what climatologists call an urban heat island, which can raise winter temperatures by several degrees and allows colonies to begin foraging earlier in the spring. Cities are also, contrary to expectation, floral. A single suburban street may contain lime trees, ornamental cherries, lavender, buddleia and dozens of garden species that flower in succession from March to October, whereas a field of oilseed rape offers an enormous quantity of nectar for three weeks and almost nothing afterwards. Exposure to agricultural pesticides, meanwhile, is generally lower in the centre of a city than in the fields that surround it.</p>\n\n<p>For a decade this was an unambiguously cheerful story. Then ecologists began counting. Honeybees are not wild animals; they are livestock, managed by people in much the same sense that sheep are. There are around 20,000 species of bee worldwide, and in Britain alone roughly 270 &ndash; bumblebees, mason bees, mining bees, leafcutters &ndash; almost all of which live alone or in very small groups and none of which produces honey in useful quantities. It is these wild species that do a great deal of the work of pollination, and many of them are in genuine decline. Placing tens of thousands of managed foragers into a small area does nothing whatever for them, and may well do harm.</p>\n\n<p>In 2020 a team led by the ecologist Marina Voss surveyed hive registrations in eleven European cities and compared them with the amount of flowering habitat available in each. In four of the cities, she calculated, the density of colonies had passed the point at which local vegetation could plausibly feed them. Some London boroughs contained more than ten hives per square kilometre, roughly four times the figure that Voss's model identified as sustainable. Where forage is scarce, honeybees and wild bees visit the same flowers, and the honeybee &ndash; numerous, well organised, and able to recruit nestmates to a good source by dancing &ndash; usually wins.</p>\n\n<p>Not everyone accepts this reading. Critics point out that competition between species is extremely difficult to measure directly, that most of the evidence so far is correlational, and that the decline of wild pollinators has many causes, of which the loss of habitat is by far the largest. Peter Ahmadi, an entomologist who has written extensively about the controversy, argues that blaming urban beekeepers is a distraction. The same city that frets about ten hives in a public park, he notes, will cheerfully approve a development that removes a hectare of brownfield &ndash; precisely the kind of scrubby, disturbed, apparently worthless ground on which rare solitary bees depend.</p>\n\n<p>Where the two camps agree is on what cities should actually do. Almost every set of recommendations now published begins not with hives but with flowers. Councils are advised to cut road verges less often, so that wild plants have time to produce seed; to choose single rather than double blooms in municipal planting, since double flowers are frequently sterile and yield no pollen at all; to link isolated green spaces into continuous corridors along which insects can travel; and to leave patches of bare earth and dead wood untidied, because most solitary bees nest in the ground or in cavities rather than in boxes. Several cities have gone further and introduced a permit system that caps the number of colonies allowed in each district.</p>\n\n<p>The urban beehive, in other words, has turned out to be an excellent introduction to a subject rather than a solution to a problem. It has taught a large number of people to look at flowers and to notice insects, and that is not nothing. But a rooftop in a city that has paved its verges and sprayed its parks is a bee in a food desert, and the honey it produces is a poor measure of the health of anything except the hive itself.</p>\n",
+   "groups": [
+    {
+     "type": "tfng",
+     "range": "1-7",
+     "instructions": "Do the following statements agree with the information given in Reading Passage 1?<br><br>In boxes 1-7 on your answer sheet, write<br><br><b>TRUE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if the statement agrees with the information<br><b>FALSE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if the statement contradicts the information<br><b>NOT GIVEN</b>&nbsp;&nbsp;if there is no information on this",
+     "items": [
+      {
+       "n": 1,
+       "text": "The number of registered bee colonies has tripled in every major city since 2010.",
+       "answer": "FALSE"
+      },
+      {
+       "n": 2,
+       "text": "Colony collapse disorder was first reported by beekeepers in Europe.",
+       "answer": "FALSE"
+      },
+      {
+       "n": 3,
+       "text": "Hives in cities can produce more honey than hives on farmland.",
+       "answer": "TRUE"
+      },
+      {
+       "n": 4,
+       "text": "Winter temperatures in cities can be several degrees higher because of the materials cities are built from.",
+       "answer": "TRUE"
+      },
+      {
+       "n": 5,
+       "text": "Oilseed rape supplies bees with nectar over a longer period than garden plants do.",
+       "answer": "FALSE"
+      },
+      {
+       "n": 6,
+       "text": "Most British bee species live in large colonies.",
+       "answer": "FALSE"
+      },
+      {
+       "n": 7,
+       "text": "Voss's team has carried out the same survey in cities outside Europe.",
+       "answer": "NOT GIVEN"
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "range": "8-13",
+     "instructions": "Complete the notes below.<br><br>Choose <b>ONE WORD ONLY</b> from the passage for each answer.<br><br>Write your answers in boxes 8-13 on your answer sheet.",
+     "title": "What cities are advised to do",
+     "html": "<ul class='ie-notes'><li>cut road verges less often, so that wild plants can produce [[8]]</li><li>use single rather than double flowers in public planting, because double flowers are often [[9]]</li><li>connect separated green spaces to form [[10]] that insects can travel along</li><li>leave areas of bare [[11]] and dead wood untidied</li><li>bring in a [[12]] system to limit colony numbers in each district</li><li>remember that the main cause of pollinator decline is the loss of [[13]]</li></ul>",
+     "items": [
+      {
+       "n": 8,
+       "answer": "seed"
+      },
+      {
+       "n": 9,
+       "answer": "sterile"
+      },
+      {
+       "n": 10,
+       "answer": "corridors"
+      },
+      {
+       "n": 11,
+       "answer": "earth"
+      },
+      {
+       "n": 12,
+       "answer": "permit"
+      },
+      {
+       "n": 13,
+       "answer": "habitat"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "range": "14-26",
+   "intro": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+   "passageTitle": "Sleeping On It",
+   "passageSubtitle": "What the brain does with the day's experience while we are unconscious",
+   "passage": "\n<p><b>A</b>&nbsp;&nbsp;\"Sleep on it\" is among the oldest pieces of advice in any language, and until recently it was understood to mean simply that a tired mind makes bad decisions. Over the past thirty years, laboratories in Europe and North America have shown that something considerably more interesting is going on. Sleep does not merely rest the brain; it actively rebuilds the memories formed during the previous day, deciding which of them to keep, strengthening some, discarding others, and occasionally extracting from them a pattern that the waking mind had entirely missed.</p>\n\n<p><b>B</b>&nbsp;&nbsp;Most of this work appears to happen during the deepest phase of sleep, known as slow-wave sleep, which dominates the first half of the night. Recordings from sleeping animals show that the hippocampus, a structure buried deep in the brain that holds recent experience, replays the sequences of activity that were recorded during the day, compressed into brief bursts lasting a fraction of a second. These bursts are coordinated with slow oscillations in the outer layer of the brain, the cortex. Over successive nights the memory becomes progressively less dependent on the hippocampus and more firmly held in the cortex, where storage is permanent. Connections that are replayed in this way are strengthened; those that are not tend to fade.</p>\n\n<p><b>C</b>&nbsp;&nbsp;The behavioural evidence is older than the physiology. As early as 1924 two American psychologists, Jenkins and Dallenbach, asked volunteers to learn lists of nonsense syllables and then tested them either after a period of ordinary daytime activity or after an equivalent period of sleep. The sleepers remembered substantially more. At the time this was explained as an absence of interference: nothing had happened during sleep to disturb the fragile new traces. That interpretation stood for half a century before it was replaced by the modern view that sleep is doing positive work rather than simply avoiding damage.</p>\n\n<p><b>D</b>&nbsp;&nbsp;Physical skills show the effect even more clearly. In a much-repeated experiment, volunteers spend twelve minutes learning to type a short sequence of digits as rapidly and accurately as they can. Their performance is measured, they go home, and they return the following day. Without having touched a keyboard in the interval, they are typically some twenty per cent faster, and the improvement is closely related to the amount of light sleep containing the brief bursts of electrical activity known as spindles. Volunteers who stay awake for the same number of hours show no such gain.</p>\n\n<p><b>E</b>&nbsp;&nbsp;The most striking findings concern insight. In one well-known study, participants were given a long series of number problems that could be solved by a laborious step-by-step procedure. Unknown to them, the sequences also contained a shortcut: a hidden rule that, once noticed, gave the answer immediately. Participants who were allowed eight hours of sleep between training and testing were more than twice as likely to discover the rule as those who spent the same interval awake. Sleep, in other words, had not simply preserved what they had learned; it had reorganised it into something new.</p>\n\n<p><b>F</b>&nbsp;&nbsp;Sleep is nevertheless selective, and the basis of its selection has become a research field of its own. If volunteers are told before sleeping that they will be tested the next morning, they retain markedly more than volunteers who are given identical material and no such expectation. Material attached to a reward, or to strong emotion, survives better than neutral material. The brain appears to tag certain experiences during the day as worth keeping and to prioritise those tags at night, which is an economical solution to the problem of a finite store and an endless supply of experience.</p>\n\n<p><b>G</b>&nbsp;&nbsp;For anyone studying, the practical conclusions are modest but real. Reviewing material shortly before sleeping is more efficient than reviewing it at midday; a nap of ninety minutes produces measurable consolidation; and an all-night session before an examination is likely to cost more than it gains. It is worth being clear about what sleep cannot do. It cannot generate a memory of material that was never studied in the first place, and the damage runs in both directions: a brain that has been deprived of sleep is markedly worse at taking in new information the following day, so the student who sacrifices a night loses twice over.</p>\n",
+   "groups": [
+    {
+     "type": "headings",
+     "range": "14-20",
+     "instructions": "Reading Passage 2 has seven paragraphs, <b>A-G</b>.<br><br>Choose the correct heading for each paragraph from the list of headings below.<br><br>Write the correct number, <b>i-x</b>, in boxes 14-20 on your answer sheet.",
+     "optionsTitle": "List of Headings",
+     "options": [
+      {
+       "k": "i",
+       "v": "A discovery made without any further practice"
+      },
+      {
+       "k": "ii",
+       "v": "Why some memories are kept and others are not"
+      },
+      {
+       "k": "iii",
+       "v": "Evidence from a task containing a hidden rule"
+      },
+      {
+       "k": "iv",
+       "v": "An old piece of advice supported by new evidence"
+      },
+      {
+       "k": "v",
+       "v": "The commercial exploitation of sleep research"
+      },
+      {
+       "k": "vi",
+       "v": "What the brain does during the deepest stage of sleep"
+      },
+      {
+       "k": "vii",
+       "v": "Advice for students, and what it cannot achieve"
+      },
+      {
+       "k": "viii",
+       "v": "Disagreement about the ideal length of a nap"
+      },
+      {
+       "k": "ix",
+       "v": "An early comparison of sleeping and waking learners"
+      },
+      {
+       "k": "x",
+       "v": "The effect of room temperature on sleep quality"
+      }
+     ],
+     "items": [
+      {
+       "n": 14,
+       "text": "Paragraph A",
+       "answer": "iv"
+      },
+      {
+       "n": 15,
+       "text": "Paragraph B",
+       "answer": "vi"
+      },
+      {
+       "n": 16,
+       "text": "Paragraph C",
+       "answer": "ix"
+      },
+      {
+       "n": 17,
+       "text": "Paragraph D",
+       "answer": "i"
+      },
+      {
+       "n": 18,
+       "text": "Paragraph E",
+       "answer": "iii"
+      },
+      {
+       "n": 19,
+       "text": "Paragraph F",
+       "answer": "ii"
+      },
+      {
+       "n": 20,
+       "text": "Paragraph G",
+       "answer": "vii"
+      }
+     ]
+    },
+    {
+     "type": "wordbox",
+     "range": "21-24",
+     "instructions": "Complete the summary using the list of words, <b>A-H</b>, below.<br><br>Write the correct letter, <b>A-H</b>, in boxes 21-24 on your answer sheet.",
+     "title": "How a memory is consolidated",
+     "html": "<p>During slow-wave sleep, the [[21]] repeats sequences of activity that were recorded earlier the same day, in bursts lasting only a fraction of a second. Night after night the memory comes to depend less on that structure and more on the [[22]], where storage is [[23]]. Connections that are replayed in this way become [[24]], while connections that are left out are likely to disappear.</p>",
+     "options": [
+      {
+       "k": "A",
+       "v": "rehearsed"
+      },
+      {
+       "k": "B",
+       "v": "cortex"
+      },
+      {
+       "k": "C",
+       "v": "hippocampus"
+      },
+      {
+       "k": "D",
+       "v": "weakened"
+      },
+      {
+       "k": "E",
+       "v": "strengthened"
+      },
+      {
+       "k": "F",
+       "v": "muscles"
+      },
+      {
+       "k": "G",
+       "v": "temporary"
+      },
+      {
+       "k": "H",
+       "v": "permanent"
+      }
+     ],
+     "items": [
+      {
+       "n": 21,
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "type": "mcq_multi",
+     "range": "25-26",
+     "instructions": "Choose <b>TWO</b> letters, <b>A-E</b>.<br><br>Write the correct letters in boxes 25 and 26 on your answer sheet.",
+     "text": "Which <b>TWO</b> limits of sleep are mentioned in the passage?",
+     "options": [
+      "It cannot produce a memory of material that was never studied.",
+      "It has no measurable effect on physical skills.",
+      "Going without it also harms the ability to learn the next day.",
+      "It only benefits people under the age of thirty.",
+      "It is less effective when it takes place in the afternoon."
+     ],
+     "ns": [
+      25,
+      26
+     ],
+     "answers": [
+      "A",
+      "C"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "range": "27-40",
+   "intro": "You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 below.",
+   "passageTitle": "Putting a Price on Nature",
+   "passage": "\n<p>In 1997 a group of economists and ecologists led by Robert Costanza published a paper that attempted something that had never been tried at that scale. Taking seventeen categories of benefit that the natural world provides to human beings &ndash; the pollination of crops, the purification of water, the regulation of climate, the protection of coastlines by reefs and mangroves, the disposal of waste by soil organisms &ndash; the team estimated what each was worth and produced a single global figure. The answer, roughly thirty-three trillion US dollars a year, was at the time larger than the combined output of every economy on earth.</p>\n\n<p>The number was, as its authors freely admitted, close to meaningless as an accounting statement. Nobody was proposing to buy the biosphere, and the methods used to price things that are never traded &ndash; asking people what they would be willing to pay, or measuring what it would cost to replace a service with technology &ndash; are acknowledged to be crude. The purpose was rhetorical. For as long as forests and wetlands appeared in national accounts as worth precisely nothing until they were cut down or drained, the arithmetic of development would always favour destruction. Costanza's figure was intended to shift the burden of proof, and in that limited aim it succeeded spectacularly.</p>\n\n<p>What followed was a quarter-century of increasingly serious work. Elena Marchetti, an economist who has advised several finance ministries, argues that the important development is not the headline valuations but the slow, unglamorous business of natural capital accounting: building stocks of forest, fish and groundwater into the official statistics that ministries actually use, alongside the conventional measures of output. A country whose economy grows by five per cent while depleting its aquifers, she points out, is not five per cent richer, and until the accounts say so no minister will behave as though it were true.</p>\n\n<p>Others regard the whole enterprise with suspicion. David Okonjo has argued consistently that the danger of attaching a price to a marsh is that a price implies an exchange rate. Once a wetland is worth eight million dollars, a developer can offer nine million, or can propose to build an artificial wetland elsewhere for less, and the transaction appears rational on paper even though the original system &ndash; with its particular soils, its particular species and its several thousand years of accumulated peat &ndash; cannot in fact be reconstructed. Valuation, on this view, does not protect nature; it makes nature negotiable.</p>\n\n<p>The philosopher Thomas Reed presses a different objection. His concern is not that the prices are inaccurate but that using them at all changes the character of the argument. To say that a forest should be preserved because it is worth a certain sum is to concede in advance that value of that kind is the only currency in which a case can be made, and to leave nothing to say when someone produces a larger sum. The reasons people actually give for caring about a river &ndash; that their grandparents swam in it, that it is beautiful, that other creatures have some claim on the world &ndash; do not translate into that language, and are quietly lost in the translation.</p>\n\n<p>Against this stands a growing body of evidence about what happens in practice. Hana Lindqvist has spent much of her career evaluating schemes in which landowners are paid directly to maintain forest cover, of which the best documented is Costa Rica's national programme, running since 1997. Her assessments are careful and unromantic. Deforestation rates on enrolled land are lower than on comparable land outside the scheme, but the difference is smaller than the programme's advocates claim, partly because many of the landowners who enrol were never likely to clear their forest in the first place. The effect, she concludes, is genuine but modest, and it is purchased at a cost that any government must weigh against other uses of the same money.</p>\n\n<p>It seems to me that both sides are describing real things. Okonjo and Reed are right that a price is an invitation to trade, and that some things ought not to be traded. Marchetti and Lindqvist are right that decisions about land are already being made by people who work in numbers, and that refusing to supply any number at all does not leave the forest unpriced &ndash; it leaves it priced at zero, which is the worst valuation of the lot. The sensible conclusion is that valuation is a tool of limited scope: useful for arguing against a bad road, useless as a complete account of why the road is bad. Trouble begins when a tool of limited scope is mistaken for a philosophy, and there are signs that this is happening. A generation of policy documents now discusses rivers exclusively as providers of services, and the language has begun to sound as though it were the whole of the truth rather than one deliberately narrowed way of speaking.</p>\n",
+   "groups": [
+    {
+     "type": "matching",
+     "range": "27-31",
+     "instructions": "Look at the following statements and the list of people below.<br><br>Match each statement with the correct person, <b>A-E</b>.<br><br>Write the correct letter, <b>A-E</b>, in boxes 27-31 on your answer sheet.<br><br><i>NB You may use any letter more than once.</i>",
+     "optionsTitle": "List of People",
+     "options": [
+      {
+       "k": "A",
+       "v": "Robert Costanza"
+      },
+      {
+       "k": "B",
+       "v": "Elena Marchetti"
+      },
+      {
+       "k": "C",
+       "v": "David Okonjo"
+      },
+      {
+       "k": "D",
+       "v": "Thomas Reed"
+      },
+      {
+       "k": "E",
+       "v": "Hana Lindqvist"
+      }
+     ],
+     "items": [
+      {
+       "n": 27,
+       "text": "Pricing a natural system allows it to be exchanged for something else.",
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "text": "Growth figures are misleading if the resources being used up are ignored.",
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "text": "A scheme's benefits are real but smaller than its supporters suggest.",
+       "answer": "E"
+      },
+      {
+       "n": 30,
+       "text": "Arguing in financial terms rules out the reasons people really care.",
+       "answer": "D"
+      },
+      {
+       "n": 31,
+       "text": "A very large figure was published in order to change the terms of debate.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "type": "ynng",
+     "range": "32-36",
+     "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3?<br><br>In boxes 32-36 on your answer sheet, write<br><br><b>YES</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if the statement agrees with the claims of the writer<br><b>NO</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if the statement contradicts the claims of the writer<br><b>NOT GIVEN</b>&nbsp;&nbsp;if it is impossible to say what the writer thinks about this",
+     "items": [
+      {
+       "n": 32,
+       "text": "The 1997 figure was reliable as a piece of accounting.",
+       "answer": "NO"
+      },
+      {
+       "n": 33,
+       "text": "Refusing to give a value to a forest leaves it effectively valued at nothing.",
+       "answer": "YES"
+      },
+      {
+       "n": 34,
+       "text": "Costa Rica's programme should be copied by every country in the region.",
+       "answer": "NOT GIVEN"
+      },
+      {
+       "n": 35,
+       "text": "Both the supporters and the critics of valuation have identified genuine problems.",
+       "answer": "YES"
+      },
+      {
+       "n": 36,
+       "text": "The language of ecosystem services is now being used more widely than is wise.",
+       "answer": "YES"
+      }
+     ]
+    },
+    {
+     "type": "mcq",
+     "range": "37-40",
+     "instructions": "Choose the correct letter, <b>A</b>, <b>B</b>, <b>C</b> or <b>D</b>.",
+     "items": [
+      {
+       "n": 37,
+       "text": "What does the writer say about the methods used to produce the 1997 estimate?",
+       "options": [
+        "They were more sophisticated than critics realised.",
+        "They were recognised as rough by the people who used them.",
+        "They were borrowed from conventional national accounting.",
+        "They were kept confidential for commercial reasons."
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 38,
+       "text": "According to Marchetti, the most significant change of the past 25 years has been",
+       "options": [
+        "the publication of more accurate global valuations.",
+        "the involvement of ecologists in economic research.",
+        "the inclusion of natural resources in official statistics.",
+        "the growth of public interest in environmental issues."
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 39,
+       "text": "Lindqvist's evaluation of the Costa Rican scheme found that",
+       "options": [
+        "many participants would have kept their forest anyway.",
+        "deforestation increased on land outside the scheme.",
+        "landowners were paid less than they had been promised.",
+        "the scheme cost less than comparable programmes."
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 40,
+       "text": "In the final paragraph, the writer's main concern is that valuation",
+       "options": [
+        "produces figures that are too low to be persuasive.",
+        "is being treated as a complete explanation rather than a tool.",
+        "has been rejected too quickly by environmental campaigners.",
+        "is more difficult to apply to rivers than to forests."
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
