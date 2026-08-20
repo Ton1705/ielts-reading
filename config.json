@@ -1,4 +1,4 @@
 {
-  "_huong_dan": "Dán link Web app của Google Apps Script vào submitUrl bên dưới. Để trống thì tính năng gửi tự động sẽ tắt, học sinh vẫn tải file kết quả gửi Zalo được như cũ.",
+  "_huong_dan": "https://script.google.com/macros/s/AKfycbx0tOxlA8FWww_BKnOxysP9zN6bava9rUmHdLmuoDBna7nijaqMPMYTptLWc_OQLNvcRQ/exec",
   "submitUrl": ""
 }
